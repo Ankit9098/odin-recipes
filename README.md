@@ -1,1 +1,2 @@
 # odin-recipes
+The project shows all I have learned in the odin project HTML Introduction. I have demonstrated on how to create basic html page, which consists of the links, images, different headings, and connecting different webpages. I have demonstrated how to use relative paths and absolute paths to use images, it also shows how to create an ordered list and unordered list. Demonstrated how to create bold and italic words, showed how to create images which can be used by screen readers. 
